@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+h1{
+    width:50%;
+    font-size:40px;
+}
+
+canvas{
+    /* background-color: white; */
+    border-radius: 10%;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 10px 10px 50px  ;
+}
